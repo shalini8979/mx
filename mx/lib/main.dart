@@ -1,3 +1,5 @@
+
+
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:mx/podcast.dart';
@@ -108,10 +110,7 @@ class MyHomePageState extends State<MyHomePage>{
     ],
     ),
     ),
-     SizedBox(height: 20,),
-     SizedBox(height: 30,),
-    //  a new change
-    // dhfkjhfjkef
+    
 
         ],
     ),
