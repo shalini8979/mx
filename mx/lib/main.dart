@@ -19,7 +19,7 @@ Future<void> main() async {
   );
   runApp(const MyApp());
 }
-
+//  I change this
 class MyApp extends StatelessWidget{
   const MyApp({super.key});
   @override
@@ -108,6 +108,8 @@ class MyHomePageState extends State<MyHomePage>{
     ],
     ),
     ),
+    SizedBox(width:10), // this is the change
+     SizedBox(width:10), // this is the change
 
         ],
     ),
