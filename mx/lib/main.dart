@@ -18,7 +18,7 @@ Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(
     options: const FirebaseOptions(apiKey: "AIzaSyBr0poC2uWBK9Q9nPDkHk2EjWc5SVZmU80 ", appId: "1:504136879574:android:3b9f846bd0c1861d1c2877", messagingSenderId: "504136879574 ", projectId: "mxplayer2-28ad9"),
-  );
+);
   runApp(const MyApp());
 }
 //  I change this

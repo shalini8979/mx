@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717313580400",
+    "project_id": "mxplayer2-8ea23",
+    "storage_bucket": "mxplayer2-8ea23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717313580400:android:5a72225a94bf72ab9003b5",
+        "android_client_info": {
+          "package_name": "com.example.mx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717313580400-r47me71tt270vkns6cl9a5j9144qk6jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFVFeE8bJSOG5Pp2UYzgOWlvDdBDvgp3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717313580400-r47me71tt270vkns6cl9a5j9144qk6jn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
