@@ -1,8 +1,6 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:mx/login.dart';
-import 'package:mx/main.dart';
 import 'package:mx/sign_up.dart';
 
 class splash_screen extends StatefulWidget{
