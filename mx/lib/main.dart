@@ -108,8 +108,7 @@ class MyHomePageState extends State<MyHomePage>{
     ],
     ),
     ),
-    SizedBox(width:10), // this is the change
-     SizedBox(width:10), // this is the change
+
 
         ],
     ),
